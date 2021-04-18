@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Po Yu Yang
-- 🔭 I’m currently learning SwiftUI, and 
-- You can reach me by: <a href="https://www.linkedin.com/in/po-yu-yang/" target="_blank">LinkedIn</a>
+- 🔭 I’m currently learning SwiftUI, and I also have several fullstack experience and machine learning experience
+- You can reach me by <a href="https://www.linkedin.com/in/po-yu-yang/" target="_blank">LinkedIn</a>
 
 
 
